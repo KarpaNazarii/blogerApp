@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/blogerApp/static/css/main.0f91c323.css",
-    "main.js": "/blogerApp/static/js/main.2ff95573.js",
+    "main.js": "/blogerApp/static/js/main.dbb49c48.js",
     "static/js/787.d04c6e40.chunk.js": "/blogerApp/static/js/787.d04c6e40.chunk.js",
     "static/media/instagram.png": "/blogerApp/static/media/instagram.8e408da00539cdef4629.png",
     "static/media/twitter.png": "/blogerApp/static/media/twitter.8926ec403245c8601a84.png",
     "index.html": "/blogerApp/index.html",
     "main.0f91c323.css.map": "/blogerApp/static/css/main.0f91c323.css.map",
-    "main.2ff95573.js.map": "/blogerApp/static/js/main.2ff95573.js.map",
+    "main.dbb49c48.js.map": "/blogerApp/static/js/main.dbb49c48.js.map",
     "787.d04c6e40.chunk.js.map": "/blogerApp/static/js/787.d04c6e40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f91c323.css",
-    "static/js/main.2ff95573.js"
+    "static/js/main.dbb49c48.js"
   ]
 }
