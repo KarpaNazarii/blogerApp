@@ -27,10 +27,10 @@ function Blogs() {
         <PostsContext.Provider value={posts}>
             <Router>
                 <Switch>
-                    <Route path="/:id">
+                    <Route path="/blogerApp/:id">
                         <PostPage />
                     </Route>
-                    <Route exact path="/">
+                    <Route exact path="/blogerApp/">
                         <div className="posts">
                             <Posts/>
                         </div>
